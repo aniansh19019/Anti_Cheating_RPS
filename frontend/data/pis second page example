@@ -1,0 +1,18 @@
+    delay(500);
+      img1=loadImage("iii.jpg");
+      image(img1,0,0,1200,800);
+      font=createFont("TT.ttf",100);
+      textFont(font);
+      textSize(70);
+      fill(250,234,0);
+      text("PLAYER 1",65,450);
+      text("PLAYER 1",67,450);
+      text("PLAYER 1",63,450);  
+      text("PLAYER 1",63,452);
+      text("PLAYER 1",63,448);
+      text("PLAYER 2",800,450);
+      text("PLAYER 2",802,450);
+      text("PLAYER 2",803,450);  
+      text("PLAYER 2",803,452);
+      text("PLAYER 2",803,448);
+  }
